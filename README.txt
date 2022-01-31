@@ -1,7 +1,7 @@
-#Random Meal   
+# Random Meal   
 
-##Technologies
+## Technologies
 
--SCSS
--Javascript
--API the mealDB
+*SCSS
+*Javascript
+*API the mealDB
